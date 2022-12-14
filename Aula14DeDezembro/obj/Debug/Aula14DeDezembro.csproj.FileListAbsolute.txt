@@ -1,0 +1,11 @@
+C:\Users\rodrigo.bguerreiro\source\repos\Aula14DeDezembro\bin\Debug\Aula14DeDezembro.exe.config
+C:\Users\rodrigo.bguerreiro\source\repos\Aula14DeDezembro\bin\Debug\Aula14DeDezembro.exe
+C:\Users\rodrigo.bguerreiro\source\repos\Aula14DeDezembro\bin\Debug\Aula14DeDezembro.pdb
+C:\Users\rodrigo.bguerreiro\source\repos\Aula14DeDezembro\obj\Debug\Aula14DeDezembro.csproj.AssemblyReference.cache
+C:\Users\rodrigo.bguerreiro\source\repos\Aula14DeDezembro\obj\Debug\Aula14DeDezembro.csproj.SuggestedBindingRedirects.cache
+C:\Users\rodrigo.bguerreiro\source\repos\Aula14DeDezembro\obj\Debug\Aula14DeDezembro.Form1.resources
+C:\Users\rodrigo.bguerreiro\source\repos\Aula14DeDezembro\obj\Debug\Aula14DeDezembro.Properties.Resources.resources
+C:\Users\rodrigo.bguerreiro\source\repos\Aula14DeDezembro\obj\Debug\Aula14DeDezembro.csproj.GenerateResource.cache
+C:\Users\rodrigo.bguerreiro\source\repos\Aula14DeDezembro\obj\Debug\Aula14DeDezembro.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.bguerreiro\source\repos\Aula14DeDezembro\obj\Debug\Aula14DeDezembro.exe
+C:\Users\rodrigo.bguerreiro\source\repos\Aula14DeDezembro\obj\Debug\Aula14DeDezembro.pdb
