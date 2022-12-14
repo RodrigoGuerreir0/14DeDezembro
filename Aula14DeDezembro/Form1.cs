@@ -92,9 +92,9 @@ namespace Aula14DeDezembro
                                                         // ai o resultado dos placares somados define qual é sua resposta
 
                 if (placar < 50)                        // IF = se placar <50 (um desvio condicional)
-                    return ForcaDaSenha.Inaceitavel;    // return = Escreva
-                else if (placar < 60)                   // ELSE IF = senao
-                    return ForcaDaSenha.Fraca;
+                    return ForcaDaSenha.Inaceitavel;    // return = seria a resposta do se
+                else if (placar < 60)                   // ELSE IF = senao se
+                    return ForcaDaSenha.Fraca;          // return = seria a resposta do senao se
                 else if (placar < 80)
                     return ForcaDaSenha.Aceitavel;
                 else if (placar < 100)
